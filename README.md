@@ -54,6 +54,13 @@ I'm an AI /ML Engineer and full-stack developer from 🌍 Earth. 🔭 I’m curr
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+### 🧱 3D Modeling & CAD Tools
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Autodesk Maya](https://img.shields.io/badge/-Maya-000000?style=flat&logo=autodesk&logoColor=white)
+![Rhino 3D](https://img.shields.io/badge/-Rhino_3D-801010?style=flat&logoColor=white)
+![MeshLab](https://img.shields.io/badge/-MeshLab-006699?style=flat&logoColor=white)
+![Netfabb](https://img.shields.io/badge/-Netfabb-0071C5?style=flat&logo=autodesk&logoColor=white)
+
 ### Others
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
