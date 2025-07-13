@@ -1,6 +1,4 @@
-## Hi there 👋 I'm S.H. welcome to my Github Page
-
-I'm an AI /ML Engineer and full-stack developer from 🌍 Earth. 🔭 I’m currently working on AI /ML Projects
+## Hi there 👋 welcome to my Github Page, I'm an AI /ML Engineer and Full-Stack developer. 🔭 I’m currently working on AI /ML Projects using MLOPs
 
 ### Programming Languages
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
