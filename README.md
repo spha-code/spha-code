@@ -1,6 +1,5 @@
-## Hi there 👋 welcome to my Github Page
+## Hi there 👋 I'm S.H. welcome to my Github Page
 
-# 👋 Hi, I'm S. H.
 I'm an AI /ML Engineer and full-stack developer from 🌍 Earth. 🔭 I’m currently working on AI /ML Projects
 
 ### Programming Languages
