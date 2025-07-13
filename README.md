@@ -51,7 +51,8 @@ I'm an AI /ML Engineer and full-stack developer from 🌍 Earth. 🔭 I’m curr
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
 
-### IDEs & Editors
+### IDEs, Editors & Notebooks
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
