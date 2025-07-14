@@ -27,6 +27,9 @@
 - [Hugging Face](https://huggingface.co/transformers/) [![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FF6C37?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/transformers/)
 - [LangChain](https://python.langchain.com/) [![LangChain](https://img.shields.io/badge/-LangChain-43a047?style=flat&logo=langchain&logoColor=white)](https://python.langchain.com/)
 
+- ### AI Frameworks & Libraries
+[PyTorch](https://pytorch.org/) [![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/) [Scikit-learn](https://scikit-learn.org/) [![](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [Pandas](https://pandas.pydata.org/) [![](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [NumPy](https://numpy.org/) [![](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) [Matplotlib](https://matplotlib.org/) [![](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/) [fastai](https://www.fast.ai/) [![](https://img.shields.io/badge/-fastai-0055FF?style=flat&logo=fastapi&logoColor=white)](https://www.fast.ai/) [Hugging Face](https://huggingface.co/transformers/) [![](https://img.shields.io/badge/-Hugging_Face-FF6C37?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/transformers/) [LangChain](https://python.langchain.com/) [![](https://img.shields.io/badge/-LangChain-43a047?style=flat&logo=langchain&logoColor=white)](https://python.langchain.com/)
+
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
