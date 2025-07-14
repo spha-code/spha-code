@@ -185,6 +185,61 @@
 | [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com) | [![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so) |
 | [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) | |
 
+<style>
+  .badge-section {
+    margin-bottom: 2em;
+  }
+
+  .badge-section h3 {
+    font-family: sans-serif;
+    margin-bottom: 0.5em;
+  }
+
+  .badge-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .badge-grid a {
+    display: inline-block;
+  }
+</style>
+
+<div class="badge-section">
+  <h3>Frameworks & Libraries</h3>
+  <div class="badge-grid">
+    <a href="https://reactjs.org"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"></a>
+    <a href="https://nextjs.org"><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"></a>
+    <a href="https://vuejs.org"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"></a>
+    <a href="https://nodejs.org"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"></a>
+    <a href="https://expressjs.com"><img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" alt="Express.js"></a>
+    <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"></a>
+    <a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"></a>
+  </div>
+</div>
+
+<div class="badge-section">
+  <h3>Databases</h3>
+  <div class="badge-grid">
+    <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"></a>
+    <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+    <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"></a>
+    <a href="https://www.sqlite.org"><img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"></a>
+  </div>
+</div>
+
+<div class="badge-section">
+  <h3>Cloud & Hosting</h3>
+  <div class="badge-grid">
+    <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"></a>
+    <a href="https://azure.microsoft.com"><img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"></a>
+    <a href="https://www.netlify.com"><img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify"></a>
+    <a href="https://vercel.com"><img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"></a>
+    <a href="https://www.heroku.com"><img src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku"></a>
+  </div>
+</div>
+
 
 <!--
 **spha-code/spha-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
