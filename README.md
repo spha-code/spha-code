@@ -1,4 +1,4 @@
-## Hi there 👋 welcome to my Github Page, I'm an AI /ML Engineer with 2+ years of experience and Full-Stack developer. 🔭 I’m currently working on AI /ML Projects with End-to-End MLOps implementation.
+## Hi there 👋 welcome to my Github Page, I'm an AI /ML Engineer with 2 years of experience and a Full-Stack developer. 🔭 I’m currently working on AI /ML Projects with End-to-End MLOps implementation.
 
 ### Programming Languages
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
