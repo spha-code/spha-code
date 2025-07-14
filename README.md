@@ -73,6 +73,7 @@
 
 ### 🧱 3D Modeling & CAD Tools  
 [![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)](https://www.blender.org)
+[![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
 [![Autodesk Maya](https://img.shields.io/badge/-Maya-000000?style=flat&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/maya/overview)
 [![Rhino 3D](https://img.shields.io/badge/-Rhino_3D-801010?style=flat&logoColor=white)](https://www.rhino3d.com)
 [![MeshLab](https://img.shields.io/badge/-MeshLab-006699?style=flat&logoColor=white)](https://www.meshlab.net)
