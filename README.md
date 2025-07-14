@@ -70,6 +70,19 @@
 [![MeshLab](https://img.shields.io/badge/-MeshLab-006699?style=flat&logoColor=white)](https://www.meshlab.net)
 [![Netfabb](https://img.shields.io/badge/-Netfabb-0071C5?style=flat&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/netfabb/overview)
 
+### 🎞️ Adobe Premiere Suite
+
+[![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html)  
+[![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)  
+[![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)  
+[![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)  
+[![Audition](https://img.shields.io/badge/-Audition-00E4CC?style=flat&logo=adobe-audition&logoColor=white)](https://www.adobe.com/products/audition.html)  
+[![Media Encoder](https://img.shields.io/badge/-Media_Encoder-9999FF?style=flat&logo=adobe-media-encoder&logoColor=white)](https://www.adobe.com/products/media-encoder.html)  
+[![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)](https://www.adobe.com/products/xd.html)  
+[![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white)](https://www.adobe.com/products/photoshop-lightroom.html)  
+[![InDesign](https://img.shields.io/badge/-InDesign-FF3366?style=flat&logo=adobe-indesign&logoColor=white)](https://www.adobe.com/products/indesign.html)
+
+
 ### Others  
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com)
 [![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so)
