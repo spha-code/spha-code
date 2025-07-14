@@ -73,6 +73,7 @@
 [![Rhino 3D](https://img.shields.io/badge/-Rhino_3D-801010?style=flat&logoColor=white)](https://www.rhino3d.com)
 [![MeshLab](https://img.shields.io/badge/-MeshLab-006699?style=flat&logoColor=white)](https://www.meshlab.net)
 [![Netfabb](https://img.shields.io/badge/-Netfabb-0071C5?style=flat&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/netfabb/overview)
+[![ZBrush](https://img.shields.io/badge/-ZBrush-E12127?style=flat&logo=ZBrush&logoColor=white)](https://pixologic.com/zbrush/)
 
 ### 🎞️ Adobe Premiere Suite
 
