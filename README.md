@@ -60,6 +60,8 @@
 [![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)](https://www.cursor.so/)
+
 
 ### Testing & QA  
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)](https://jestjs.io)
