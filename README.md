@@ -1,5 +1,10 @@
 ## Hi there 👋 welcome to my Github Page, I'm an AI /ML Engineer and Full-Stack developer. 🔭 I’m currently working on AI /ML Projects with MLOps implementation.
 
+AI Engineer, Researcher, and Creative Technologist with over a decade of cross-disciplinary experience in
+machine learning, computer vision, and 3D and 2D graphics. Proven track record in designing end-to-end
+AI pipelines, from datapreprocessing to model training and deployment. Expertise in stable diffusion-based
+image synthesis, 3D reconstruction from image data, and interactive AI tools. Experienced in full-stack prototyping, containerization, and Linux-based development environments
+
 ### Programming Languages
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -74,6 +79,8 @@
 [![MeshLab](https://img.shields.io/badge/-MeshLab-006699?style=flat&logoColor=white)](https://www.meshlab.net)
 [![Netfabb](https://img.shields.io/badge/-Netfabb-0071C5?style=flat&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/netfabb/overview)
 [![ZBrush](https://img.shields.io/badge/-ZBrush-E12127?style=flat&logo=ZBrush&logoColor=white)](https://pixologic.com/zbrush/)
+[![Cinema 4D](https://img.shields.io/badge/-Cinema4D-011A6A?style=flat&logo=cinema-4d&logoColor=white)](https://www.maxon.net/en/cinema-4d)
+
 
 ### 🎞️ Adobe Premiere Suite
 
@@ -85,6 +92,7 @@
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com)
 [![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
 <!--
 **spha-code/spha-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
