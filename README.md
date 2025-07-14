@@ -1,10 +1,5 @@
 ## Hi there 👋 welcome to my Github Page, I'm an AI /ML Engineer and Full-Stack developer. 🔭 I’m currently working on AI /ML Projects with MLOps implementation.
 
-AI Engineer, Researcher, and Creative Technologist with over a decade of cross-disciplinary experience in
-machine learning, computer vision, and 3D and 2D graphics. Proven track record in designing end-to-end
-AI pipelines, from datapreprocessing to model training and deployment. Expertise in stable diffusion-based
-image synthesis, 3D reconstruction from image data, and interactive AI tools. Experienced in full-stack prototyping, containerization, and Linux-based development environments
-
 ### Programming Languages
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
