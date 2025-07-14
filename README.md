@@ -18,6 +18,8 @@
 [![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FF6C37?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/transformers/)
 [![LangChain](https://img.shields.io/badge/-LangChain-2A7A45?style=flat&logo=langchain&logoColor=white)](https://www.langchain.com/)
 [![DVC](https://img.shields.io/badge/-DVC-000000?style=flat&logo=data-vault&logoColor=white)](https://dvc.org/)
+[![MLflow](https://img.shields.io/badge/-MLflow-000000?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org/)
+
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
