@@ -18,7 +18,7 @@
 [![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FF6C37?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/transformers/)
 [![LangChain](https://img.shields.io/badge/-LangChain-2A7A45?style=flat&logo=langchain&logoColor=white)](https://www.langchain.com/)
 [![DVC](https://img.shields.io/badge/-DVC-000000?style=flat&logo=data-vault&logoColor=white)](https://dvc.org/)
-[![MLflow](https://img.shields.io/badge/-MLflow-000000?style=flat&logo=mlflow&logoColor=pink)](https://mlflow.org/)
+[![MLflow](https://img.shields.io/badge/-MLflow-FC6CFF?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org/)
 [![DagsHub](https://img.shields.io/badge/-DagsHub-FF6C37?style=flat&logo=dagshub&logoColor=white)](https://dagshub.com/)
 
 ### DevOps & Tools
