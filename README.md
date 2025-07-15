@@ -19,7 +19,7 @@
 [![LangChain](https://img.shields.io/badge/-LangChain-2A7A45?style=flat&logo=langchain&logoColor=white)](https://www.langchain.com/)
 [![DVC](https://img.shields.io/badge/-DVC-000000?style=flat&logo=data-vault&logoColor=white)](https://dvc.org/)
 [![MLflow](https://img.shields.io/badge/-MLflow-000000?style=flat&logo=mlflow&logoColor=pink)](https://mlflow.org/)
-[![DagsHub](https://img.shields.io/badge/-DagsHub-000000?style=flat&logo=dagshub&logoColor=white)](https://dagshub.com/)
+[![DagsHub](https://img.shields.io/badge/-DagsHub-010101?style=flat&logo=dagshub&logoColor=white)](https://dagshub.com/)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
