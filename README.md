@@ -63,8 +63,7 @@
 [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
-[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-CF6CF7?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)](https://www.cursor.so/)
 
 
