@@ -1,5 +1,4 @@
-## 👋 Hi there! I'm an AI/ML Engineer with 2 years of experience, complemented by a Python programming and Full-Stack background. 
-## 🚀 Currently working on AI/ML projects with end-to-end MLOps, from data preprocessing to model development.
+## 👋 Hi there! I'm an AI/ML Engineer with 2 years of experience with end-to-end MLOps, complemented by a Python programming and Full-Stack background. 🚀 
 
 ### Programming Languages
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
