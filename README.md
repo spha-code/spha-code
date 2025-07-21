@@ -20,6 +20,7 @@
 [![DVC](https://img.shields.io/badge/-DVC-000000?style=flat&logo=data-vault&logoColor=white)](https://dvc.org/)
 [![MLflow](https://img.shields.io/badge/-MLflow-FC6CFF?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org/)
 [![DagsHub](https://img.shields.io/badge/-DagsHub-FF6C37?style=flat&logo=dagshub&logoColor=white)](https://dagshub.com/)
+[![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
