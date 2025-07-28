@@ -67,12 +67,6 @@
 [![PyCharm](https://img.shields.io/badge/-PyCharm-CF6CF7?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)](https://www.cursor.so/)
 
-
-### Testing & QA  
-[![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)](https://jestjs.io)
-[![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)](https://www.cypress.io)
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com)
-
 ### 🧱 3D Modeling & CAD Tools  
 [![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)](https://www.blender.org)
 [![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
