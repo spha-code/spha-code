@@ -1,4 +1,4 @@
-## 👋 AI/ML (end-to-end MLOps) - Python - Full-Stack background. 🚀 
+## 👋 AI/ML (end-to-end MLOps) - Python - Full-Stack 🚀 
 
 ### Programming Languages
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
