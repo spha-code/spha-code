@@ -21,7 +21,7 @@
 ### AI / MLOps
 
 
-[![ZenML](https://img.shields.io/badge/-DagsHub-FF6C37?style=flat&logo=dagshub&logoColor=white)](https://www.zenml.io/)
+[![ZenML](https://img.shields.io/badge/-ZenML-FF6C37?style=flat&logo=dagshub&logoColor=white)](https://www.zenml.io/)
 [![DVC](https://img.shields.io/badge/-DVC-000000?style=flat&logo=data-vault&logoColor=white)](https://dvc.org/)
 [![MLflow](https://img.shields.io/badge/-MLflow-FC6CFF?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org/)
 [![DagsHub](https://img.shields.io/badge/-DagsHub-FF6C37?style=flat&logo=dagshub&logoColor=white)](https://dagshub.com/)
