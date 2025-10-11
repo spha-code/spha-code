@@ -18,8 +18,9 @@
 [![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FF6C37?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/transformers/)
 [![LangChain](https://img.shields.io/badge/-LangChain-2A7A45?style=flat&logo=langchain&logoColor=white)](https://www.langchain.com/)
 
-### AI / MLOps
+### ML / MLOps
 
+#### Data Collection > Model Training > Deployment
 
 [![ZenML](https://img.shields.io/badge/-ZenML-FF6C37?style=flat&logo=dagshub&logoColor=white)](https://www.zenml.io/)
 [![DVC](https://img.shields.io/badge/-DVC-000000?style=flat&logo=data-vault&logoColor=white)](https://dvc.org/)
