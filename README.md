@@ -20,7 +20,7 @@
 
 ### ML / MLOps
 
-#### Data Collection > Model Training > Deployment
+#### Data Collection > Model Training > Model Deployment and Maintenance
 
 [![ZenML](https://img.shields.io/badge/-ZenML-FF6C37?style=flat&logo=dagshub&logoColor=white)](https://www.zenml.io/)
 [![DVC](https://img.shields.io/badge/-DVC-000000?style=flat&logo=data-vault&logoColor=white)](https://dvc.org/)
