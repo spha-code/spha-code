@@ -18,7 +18,7 @@
 [![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FF6C37?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/transformers/)
 [![LangChain](https://img.shields.io/badge/-LangChain-2A7A45?style=flat&logo=langchain&logoColor=white)](https://www.langchain.com/)
 
-### [ML / MLOps]([https://github.com/spha-code/MLOps/blob/main/README.md])
+### [ML / MLOps](https://github.com/spha-code/MLOps/blob/main/README.md)
 
 #### Data Collection > Model Training > Model Deployment and Maintenance
 
