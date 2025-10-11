@@ -7,7 +7,7 @@
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![SQL](https://img.shields.io/badge/-SQL-025E8C?style=flat&logo=database&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
-### AI Frameworks & Libraries
+### Machine Learning Frameworks
 
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/) 
 [![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) 
@@ -28,7 +28,7 @@
 [![DagsHub](https://img.shields.io/badge/-DagsHub-FF6C37?style=flat&logo=dagshub&logoColor=white)](https://dagshub.com/)
 [![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
 
-### DevOps & Tools
+### DevOps & Engineering Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
