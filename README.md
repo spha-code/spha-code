@@ -9,6 +9,8 @@
 
 ### Machine Learning Frameworks
 
+#### Data Collection > Model Training > Model Deployment and Maintenance
+
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/) 
 [![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) 
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
@@ -20,15 +22,13 @@
 
 ### [ML / MLOps](https://github.com/spha-code/MLOps/blob/main/README.md)
 
-#### Data Collection > Model Training > Model Deployment and Maintenance
-
 [![ZenML](https://img.shields.io/badge/-ZenML-FF6C37?style=flat&logo=dagshub&logoColor=white)](https://www.zenml.io/)
 [![DVC](https://img.shields.io/badge/-DVC-000000?style=flat&logo=data-vault&logoColor=white)](https://dvc.org/)
 [![MLflow](https://img.shields.io/badge/-MLflow-FC6CFF?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org/)
 [![DagsHub](https://img.shields.io/badge/-DagsHub-FF6C37?style=flat&logo=dagshub&logoColor=white)](https://dagshub.com/)
 [![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
 
-### DevOps & Engineering Tools
+### DevOps & Containerization
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
