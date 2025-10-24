@@ -20,6 +20,10 @@
 [![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FF6C37?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/transformers/)
 [![LangChain](https://img.shields.io/badge/-LangChain-2A7A45?style=flat&logo=langchain&logoColor=white)](https://www.langchain.com/)
 
+#### Data Analytics & Visualization
+[![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
+
 ### [ML / MLOps](https://github.com/spha-code/MLOps/blob/main/README.md)
 
 [![ZenML](https://img.shields.io/badge/-ZenML-FF6C37?style=flat&logo=dagshub&logoColor=white)](https://www.zenml.io/)
