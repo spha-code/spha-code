@@ -42,6 +42,8 @@
 ### APIs
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Pydantic](https://img.shields.io/badge/-Pydantic-0E7C86?style=flat&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
+[![Asyncio](https://img.shields.io/badge/-Asyncio-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 ### Web Development
