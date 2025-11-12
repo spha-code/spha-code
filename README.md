@@ -46,7 +46,7 @@
 [![Asyncio](https://img.shields.io/badge/-Asyncio-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
-> 🧩 FastAPI + SQLite:
+> 🧩 CRUD FastAPI + SQLite Setup:
 > 👉 [**spha-code/fastapi_sqlite**](https://github.com/spha-code/fastapi_sqlite)
 
 ### Web Development
