@@ -46,6 +46,10 @@
 [![Asyncio](https://img.shields.io/badge/-Asyncio-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
+> 🧩 **Related Project:**  
+> FastAPI + SQLite project:
+> 👉 [**spha-code/fastapi_sqlite**](https://github.com/spha-code/fastapi_sqlite)
+
 ### Web Development
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
