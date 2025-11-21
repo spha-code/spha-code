@@ -46,7 +46,7 @@
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 > 🧩 CRUD FastAPI + SQLite + HTML/CSS/JS Setup:
-> 👉 [**spha-code/fastapi_sqlite**](https://github.com/spha-code/fastapi-crud)
+> 👉 [**spha-code/fastapi-crud**](https://github.com/spha-code/fastapi-crud)
 
 ### Web Development
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
