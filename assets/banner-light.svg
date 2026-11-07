@@ -1,24 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="AI Full-Stack Engineer: Agentic AI, Python, TypeScript, Berlin" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" role="img" aria-label="AI Full-Stack Engineer: Agentic AI, Python, TypeScript, Berlin" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
 <title>AI Full-Stack Engineer: Agentic AI, Python, TypeScript, Berlin</title>
-<style>@keyframes b0{0%{fill:#f6f8fa;stroke:#d0d7de;stroke-width:1.5px}1.20%{fill:#F1F9F6;stroke:#B9DCCF;stroke-width:1.5px}5.07%{fill:#F1F9F6;stroke:#B9DCCF;stroke-width:1.5px}6.27%,100%{fill:#f6f8fa;stroke:#d0d7de;stroke-width:1.5px}}@keyframes t0{0%{fill:#656d76;transform:scale(1)}1.20%{fill:#4A5A54;transform:scale(1.1)}5.07%{fill:#4A5A54;transform:scale(1.1)}6.27%,100%{fill:#656d76;transform:scale(1)}}.b0{animation:b0 8s linear infinite}.t0{animation:t0 8s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes b1{0%,8.73%{fill:#f6f8fa;stroke:#d0d7de;stroke-width:1.5px}9.93%{fill:#F1F9F6;stroke:#B9DCCF;stroke-width:1.5px}20.07%{fill:#F1F9F6;stroke:#B9DCCF;stroke-width:1.5px}21.27%,100%{fill:#f6f8fa;stroke:#d0d7de;stroke-width:1.5px}}@keyframes t1{0%,8.73%{fill:#656d76;transform:scale(1)}9.93%{fill:#4A5A54;transform:scale(1.1)}20.07%{fill:#4A5A54;transform:scale(1.1)}21.27%,100%{fill:#656d76;transform:scale(1)}}.b1{animation:b1 8s linear infinite}.t1{animation:t1 8s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes b2{0%,23.73%{fill:#E1F5EE;stroke:#0F6E56;stroke-width:1.5px}24.93%{fill:#E1F5EE;stroke:#0F6E56;stroke-width:3.5px}35.07%{fill:#E1F5EE;stroke:#0F6E56;stroke-width:3.5px}36.27%,100%{fill:#E1F5EE;stroke:#0F6E56;stroke-width:1.5px}}@keyframes t2{0%,23.73%{fill:#085041;transform:scale(1)}24.93%{fill:#085041;transform:scale(1.1)}35.07%{fill:#085041;transform:scale(1.1)}36.27%,100%{fill:#085041;transform:scale(1)}}.b2{animation:b2 8s linear infinite}.t2{animation:t2 8s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes b3{0%,38.73%{fill:#f6f8fa;stroke:#d0d7de;stroke-width:1.5px}39.93%{fill:#F1F9F6;stroke:#B9DCCF;stroke-width:1.5px}50.07%{fill:#F1F9F6;stroke:#B9DCCF;stroke-width:1.5px}51.27%,100%{fill:#f6f8fa;stroke:#d0d7de;stroke-width:1.5px}}@keyframes t3{0%,38.73%{fill:#656d76;transform:scale(1)}39.93%{fill:#4A5A54;transform:scale(1.1)}50.07%{fill:#4A5A54;transform:scale(1.1)}51.27%,100%{fill:#656d76;transform:scale(1)}}.b3{animation:b3 8s linear infinite}.t3{animation:t3 8s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes b4{0%,53.73%{fill:#f6f8fa;stroke:#d0d7de;stroke-width:1.5px}54.93%{fill:#F1F9F6;stroke:#B9DCCF;stroke-width:1.5px}65.07%{fill:#F1F9F6;stroke:#B9DCCF;stroke-width:1.5px}66.27%,100%{fill:#f6f8fa;stroke:#d0d7de;stroke-width:1.5px}}@keyframes t4{0%,53.73%{fill:#656d76;transform:scale(1)}54.93%{fill:#4A5A54;transform:scale(1.1)}65.07%{fill:#4A5A54;transform:scale(1.1)}66.27%,100%{fill:#656d76;transform:scale(1)}}.b4{animation:b4 8s linear infinite}.t4{animation:t4 8s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes b5{0%,68.73%{fill:#f6f8fa;stroke:#d0d7de;stroke-width:1.5px}69.93%{fill:#F1F9F6;stroke:#B9DCCF;stroke-width:1.5px}80.07%{fill:#F1F9F6;stroke:#B9DCCF;stroke-width:1.5px}81.27%,100%{fill:#f6f8fa;stroke:#d0d7de;stroke-width:1.5px}}@keyframes t5{0%,68.73%{fill:#656d76;transform:scale(1)}69.93%{fill:#4A5A54;transform:scale(1.1)}80.07%{fill:#4A5A54;transform:scale(1.1)}81.27%,100%{fill:#656d76;transform:scale(1)}}.b5{animation:b5 8s linear infinite}.t5{animation:t5 8s linear infinite;transform-box:fill-box;transform-origin:center}@media (prefers-reduced-motion: reduce){.p{display:none}.b0,.t0{animation:none}.b1,.t1{animation:none}.b2,.t2{animation:none}.b3,.t3{animation:none}.b4,.t4{animation:none}.b5,.t5{animation:none}}</style>
-<rect width="1200" height="300" rx="16" fill="#ffffff"/>
-<defs><pattern id="d" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#e6e9ed"/></pattern></defs>
-<rect width="1200" height="300" fill="url(#d)"/>
+<style>
+.bx{fill:#f6f8fa;stroke:#d0d7de;stroke-width:1.25px}
+.tx{fill:#57606a}
+.ln{fill:none;stroke:#afb8c1;stroke-width:1.5;stroke-linecap:round}
+.lb{font-size:13px;fill:#8c959f;letter-spacing:.06em}
+@keyframes q{0%,3%{fill:#F1F9F6;stroke:#B9DCCF}6%,100%{fill:#f6f8fa;stroke:#d0d7de}}
+@keyframes ag{0%,9%{stroke-width:1.25px}11%,14%{stroke-width:3px}16%,32%{stroke-width:1.25px}34%,37%{stroke-width:3px}39%,56%{stroke-width:1.25px}58%,61%{stroke-width:3px}63%,100%{stroke-width:1.25px}}
+@keyframes tl{0%,20%{fill:#f6f8fa;stroke:#d0d7de}22%,25%{fill:#F1F9F6;stroke:#B9DCCF}27%,44%{fill:#f6f8fa;stroke:#d0d7de}46%,49%{fill:#F1F9F6;stroke:#B9DCCF}51%,100%{fill:#f6f8fa;stroke:#d0d7de}}
+@keyframes an{0%,81%{fill:#f6f8fa;stroke:#d0d7de}84%,96%{fill:#F1F9F6;stroke:#B9DCCF}99%,100%{fill:#f6f8fa;stroke:#d0d7de}}
+.bq{animation:q 9s linear infinite}.ba{animation:ag 9s linear infinite}.bt{animation:tl 9s linear infinite}.bn{animation:an 9s linear infinite}
+@media (prefers-reduced-motion: reduce){.p{display:none}.bq,.ba,.bt,.bn{animation:none}}
+</style>
+<defs>
+<pattern id="d" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#eaedf0"/></pattern>
+<marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1 1L9 5L1 9" fill="none" stroke="#afb8c1" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<marker id="g" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1 1L9 5L1 9" fill="none" stroke="#0F6E56" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<path id="flow" d="M126 280H442V268H758V292H442V268H758V292H442V340H916V280H1074"/>
+</defs>
+<rect width="1200" height="370" rx="16" fill="#ffffff"/>
+<rect width="1200" height="370" fill="url(#d)"/>
 <text x="56" y="104" font-size="52" font-weight="600" fill="#1f2328">AI Full-Stack Engineer</text>
 <text x="56" y="146" font-size="23" fill="#656d76">Agentic AI · Python · TypeScript · Berlin</text>
-<path id="flow" d="M120.833 222H1079.17" stroke="#d0d7de" stroke-width="2" fill="none"/>
-<circle class="p" r="6" fill="#0F6E56"><animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.75;1" calcMode="linear"><mpath href="#flow"/></animateMotion></circle>
-<rect class="b0" x="56" y="192" width="129.667" height="60" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
-<rect class="b1" x="247.667" y="192" width="129.667" height="60" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
-<rect class="b2" x="439.333" y="192" width="129.667" height="60" rx="10" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1.5"/>
-<rect class="b3" x="631" y="192" width="129.667" height="60" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
-<rect class="b4" x="822.667" y="192" width="129.667" height="60" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
-<rect class="b5" x="1014.33" y="192" width="129.667" height="60" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
-<text class="t0" x="120.833" y="229.35" text-anchor="middle" font-size="21" fill="#656d76">query</text>
-<text class="t1" x="312.5" y="229.35" text-anchor="middle" font-size="21" fill="#656d76">retrieve</text>
-<text class="t2" x="504.167" y="229.35" text-anchor="middle" font-size="21" fill="#085041">agent</text>
-<text class="t3" x="695.833" y="229.35" text-anchor="middle" font-size="21" fill="#656d76">skills</text>
-<text class="t4" x="887.5" y="229.35" text-anchor="middle" font-size="21" fill="#656d76">tools</text>
-<text class="t5" x="1079.17" y="229.35" text-anchor="middle" font-size="21" fill="#656d76">answer</text>
-<rect x="1" y="1" width="1198" height="298" rx="15" fill="none" stroke="#d0d7de" stroke-width="2"/>
+
+<!-- skills -> agent -->
+<path class="ln" d="M442 216V248" marker-end="url(#a)"/>
+<!-- query -> agent -->
+<path class="ln" d="M196 280H368" marker-end="url(#a)"/>
+<!-- agent -> tools: act -->
+<path class="ln" d="M512 268H684" marker-end="url(#a)"/>
+<text class="lb" x="600" y="258" text-anchor="middle">act</text>
+<!-- tools -> agent: observe (feedback) -->
+<path d="M688 292H516" fill="none" stroke="#0F6E56" stroke-width="1.5" stroke-dasharray="4 5" stroke-linecap="round" marker-end="url(#g)"/>
+<text class="lb" x="600" y="314" text-anchor="middle" style="fill:#0F6E56">observe</text>
+<!-- agent -> answer: done -->
+<path class="ln" d="M442 308V328Q442 340 454 340H904Q916 340 916 328V292Q916 280 928 280H1000" marker-end="url(#a)"/>
+<text class="lb" x="960" y="270" text-anchor="middle">done</text>
+
+<!-- moving dot (drawn under the boxes) -->
+<circle class="p" r="5" fill="#0F6E56"><animateMotion dur="9s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.85;1" calcMode="linear"><mpath href="#flow"/></animateMotion></circle>
+
+<!-- boxes: equal width (140) and equal gaps (176) -->
+<rect class="bx" x="392" y="176" width="100" height="40" rx="12"/>
+<rect class="bx bq" x="56" y="252" width="140" height="56" rx="12"/>
+<rect class="ba" x="372" y="252" width="140" height="56" rx="12" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1.25"/>
+<rect class="bx bt" x="688" y="252" width="140" height="56" rx="12"/>
+<rect class="bx bn" x="1004" y="252" width="140" height="56" rx="12"/>
+<text class="tx" x="442" y="202" text-anchor="middle" font-size="17">skills</text>
+<text class="tx" x="126" y="287" text-anchor="middle" font-size="20">query</text>
+<text x="442" y="287" text-anchor="middle" font-size="20" font-weight="500" fill="#085041">agent</text>
+<text class="tx" x="758" y="287" text-anchor="middle" font-size="20">tools</text>
+<text class="tx" x="1074" y="287" text-anchor="middle" font-size="20">answer</text>
+
+<rect x="1" y="1" width="1198" height="368" rx="15" fill="none" stroke="#d0d7de" stroke-width="2"/>
 </svg>
