@@ -1,4 +1,4 @@
-<img src="assets/banner-dark.svg" alt="AI Full-Stack Engineer: Agentic AI, Python, TypeScript, Berlin" width="100%">
+<img src="assets/banner-light.svg" alt="AI Full-Stack Engineer: Agentic AI, Python, TypeScript, Berlin" width="100%">
 
 I build AI products end to end, from agent design and retrieval to the APIs and interfaces people use. My work focuses on agentic systems, MCP integrations and LLM tracing.
 
